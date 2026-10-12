@@ -8,9 +8,15 @@ Co-founder and CTO of [Portico Intelligence](https://github.com/portico-intellig
 - **Geolocation clock-in and clock-out** for crews in the field
 - **Dusty**, the assistant inside the product: it answers from the company's own data, flags what needs attention, and prepares actions the owner approves
 
-## Before taskforse
+## Built before taskforse
 
-I shipped AI phone agents for small businesses, in English and Quebec French, and the portal their owners log into. That is where I learned what it takes to keep an agent running for someone who is not technical.
+- **AI phone agents for small businesses**: receptionists that answer real customer calls for trades companies, in English and Quebec French. One runs in production on top of a client's ERP.
+- **A client portal for those agents**: where owners see every call, with calendar sync and self-serve onboarding.
+- **A longevity report platform for a medical clinic**: turns raw assessment data into branded patient reports with AI-written interpretation and goals. Built on AWS with health-data safeguards.
+- **A client portal for a media company**: Express and React.
+- **My own agent system**: a personal chief-of-staff agent and a long-term memory layer that I use to run my work every day.
+
+Building agents on top of other people's software taught me its limit: an agent can only act as far as the system underneath lets it. taskforse is what I built once I decided to own that system.
 
 ## How I work
 
