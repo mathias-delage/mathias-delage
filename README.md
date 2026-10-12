@@ -1,6 +1,6 @@
 # Mathias Delage
 
-Co-founder and CTO of [Portico Intelligence](https://github.com/portico-intelligence). I build [taskforse](https://www.taskforse.com), the operating system for commercial cleaning companies.
+Co-founder and CTO of [Portico Intelligence](https://github.com/portico-intelligence). I build [taskforse](https://www.taskforse.com), the AI-powered operating system for commercial cleaning companies.
 
 ## What I build at taskforse
 
