@@ -13,7 +13,7 @@ Co-founder and CTO of [Portico Intelligence](https://github.com/portico-intellig
 - **AI phone agents for small businesses**: receptionists that answer real customer calls for trades companies, in English and Quebec French. One runs in production on top of a client's ERP.
 - **A client portal for those agents**: where owners see every call, with calendar sync and self-serve onboarding.
 - **A longevity report platform for a medical clinic**: turns raw assessment data into branded patient reports with AI-written interpretation and goals. Built on AWS with health-data safeguards.
-- **A second brain for that clinic**: a structured knowledge vault that captures the doctors' own protocols, reasoning and sources, graded by strength of evidence. The clinic's AI reads from it, so its answers come from how those doctors actually practice.
+- **A second brain for that clinic**: the doctors' own protocols, reasoning and sources captured as a structured knowledge base. The report engine reads it every time it generates a report, so the output follows how those doctors actually practice. A companion vault grades each clinical rule by the strength of its evidence.
 - **A client portal for a media company**: Express and React.
 - **My own agent system**: a personal chief-of-staff agent and a long-term memory layer that I use to run my work every day.
 
